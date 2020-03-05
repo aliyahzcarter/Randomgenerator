@@ -1,2 +1,2 @@
 # Randomgenerator
-Random Number and Color Generator with SQLite Implementation
+Android Studios Random Number and Color Generator with SQLite Implementation
